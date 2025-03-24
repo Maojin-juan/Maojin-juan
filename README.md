@@ -6,9 +6,9 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Frontend Developer specialized in modern JavaScript frameworks
-- 💡 Enthusiast for React, Tailwind CSS, and UI/UX design
-- 🌱 Currently expanding my knowledge in advanced JavaScript & backend development
+- 🌱 Currently learning React and Redux to build interactive web applications
+- 💡 Enthusiast for Tailwind CSS and UI/UX design
+- 🚀 Passionate about frontend development and creating user-friendly interfaces
 
 ## 🛠️ Tech Stack
 
